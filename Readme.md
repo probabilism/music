@@ -49,4 +49,4 @@ Should you merely wish to eradicate the fingering hints from the sheets, downloa
 All the compositions contained in this repository are in the public domain unless otherwise noted on individual scores or in individual files. Engraving, typesetting, fingerings, arrangements and other embellishments are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ----
-Copyright © 2020 Probabilism
+Copyright © 2020-2021 Probabilism
